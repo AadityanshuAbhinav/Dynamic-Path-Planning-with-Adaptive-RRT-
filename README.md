@@ -142,4 +142,5 @@ This project was submitted for **ED5215** (Motion Planning / Robotics elective).
 ## Authors
 
 - **Aadityanshu Abhinav**
-- **Anuj Sreenivasan** (collaborative development — see `anuj*.py` variants)
+- **Anuj Sreenivasan**
+- **Ajan Muthuraj**
