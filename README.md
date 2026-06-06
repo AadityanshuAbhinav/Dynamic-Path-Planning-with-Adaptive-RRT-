@@ -58,6 +58,12 @@ The work was developed as part of the **ED5215** course project.
 pip install pygame numpy shapely
 ```
 
+Or
+
+```bash
+pip install -r requirements.txt
+```
+
 | Package   | Purpose                              |
 |-----------|--------------------------------------|
 | `pygame`  | 2D rendering and simulation loop     |
