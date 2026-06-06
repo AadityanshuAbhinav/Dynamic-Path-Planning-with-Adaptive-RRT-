@@ -5,10 +5,10 @@ from shapely.geometry import Point, Polygon
 class A_star:
 
     def __init__(self):
-        self.start =
-        self.goal =
-        self.width =
-        self.height =
+        self.start = None
+        self.goal = None
+        self.width = None
+        self.height = None
         self.static_obs_list = []
 
     def equation(self, a, b):
